@@ -19,7 +19,7 @@ def first_student_by_index
   
 end
 
-first_student_by_index
+puts first_student_by_index[0]
 
 def fourth_student_by_index
   room = STUDENTS_NAMES
