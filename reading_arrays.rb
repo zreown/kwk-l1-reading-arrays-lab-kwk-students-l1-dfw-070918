@@ -1,4 +1,4 @@
-STUDENT_NAMES = [
+student_names = [
   "Adele",
   "Beyoncé",
   "Cardi B",
