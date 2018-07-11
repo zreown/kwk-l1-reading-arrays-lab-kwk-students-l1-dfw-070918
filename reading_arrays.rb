@@ -23,7 +23,6 @@ first_student_by_index
 
 def fourth_student_by_index
   room = STUDENTS_NAMES
-  puts room[4]
    ["Adele",
   "Beyoncé",
   "Cardi B",
@@ -32,7 +31,7 @@ def fourth_student_by_index
   "Rihanna"]
 
 end
-
+puts room[4]
 first_student_by_index
 
 def last_student_by_index
