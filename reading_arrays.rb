@@ -31,7 +31,7 @@ def fourth_student_by_index
   "Rihanna"]
 
 end
-puts room[4]
+
 first_student_by_index
 
 def last_student_by_index
