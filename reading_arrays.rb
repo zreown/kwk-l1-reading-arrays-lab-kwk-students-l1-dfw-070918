@@ -9,13 +9,14 @@ STUDENT_NAMES = [
 
 def first_student_by_index
   room = STUDENT_NAMES
-  puts room.first
+  puts room[4]
    ["Adele",
   "Beyoncé",
   "Cardi B",
   "Lady Gaga",
   "Nicki Minaj",
   "Rihanna"]
+  
 end
 
 first_student_by_index
